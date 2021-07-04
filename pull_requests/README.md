@@ -10,7 +10,8 @@
     ```shell
     $ git pull origin main
     ```
-- Check if there are any clashes or not. If there are any, fix them and only then **Add, Commit and Push** to `<your_name>` branch.
+- Check if there are any clashes or not. If there are any, fix them. If there are clashes, VSCode will give you some options. Always use the **Accept Incoming Changes** option!
+- After fixing all the clashes, **Add, Commit and Push** to `<your_name>` branch.
     ```
     $ git add <files>
     $ git commit -m "A nice commit message detailing the features/fixes"
