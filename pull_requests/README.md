@@ -1,4 +1,4 @@
-# Instructions focusing on Git Workflow
+# Instructions focusing on Pull Requests
 
 ## How to make a Pull Request using Branches
 - First create a Local Branch
