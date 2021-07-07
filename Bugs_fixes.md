@@ -1,1 +1,0 @@
-- [Issue] - Images and text not visible within a container in deployment. The Reason might be **CSS Opacity**. Setting percentage values in opacity, resets the value to **1%** in deployment. The Fix is simple, use decimal value. Eg: Instead of using **Opacity=90%**; use **Opacity=0.9**.
