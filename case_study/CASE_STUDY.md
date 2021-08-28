@@ -2,7 +2,7 @@
 
 
 ## Introduction
-**`include <TYPE>`** is a web app portal that'll help it's users to manage and 
+**`#include <TYPE>`** is a web app portal that'll help it's users to manage and 
 track their projects in an efficient and structured manner. Easy to access, 
 anyone who's part of a project can use this portal for their benefit, be it 
 a school student or a professional. It helps them to keep track of their 
@@ -33,10 +33,10 @@ work.
         because we didn't want the first experience of our app to feel slow.
 
         Since Blazor was out, we were looking into some other popular choices. 
-        We decided we'd go with React, which weighs arond 43 KB. Vue was also enticing but in the end 
-        we went with React because of it's Component-Wise-Development nature 
-        where each UI component can be written into small compnents and 
-        they can be easily re-used elsewhere.
+        We decided we'd go with React, which weighs arond 43 KB. Vue was also 
+        enticing but in the end we went with React because of it's 
+        Component-Wise-Development nature where each UI component can be written 
+        into small compnents and they can be easily re-used elsewhere.
 
     - #### TypeScript
         This was honestly an easy decision! TypeScript makes our lives a lot 
